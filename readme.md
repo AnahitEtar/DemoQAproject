@@ -2,7 +2,7 @@
 
 > Testing done with **Python 3.8.10** and **Selenium**
 
-##Table of contetns
+## Table of contetns
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
